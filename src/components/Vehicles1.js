@@ -1,6 +1,6 @@
 import pin from '../assest/pin-1.png'
 import logo from '../assest/kia logo.png'
-import search from '../assest/search.png'
+import search from '../assest/search.png'   
 function Vehicles1(){
     return(
         <header className="parent">

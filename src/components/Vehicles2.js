@@ -1,9 +1,9 @@
 function Vehicles2() {
     return (
-        <section className="relative">
-            <nav className="bg-white w-full h-14">
+        <section className="sticky top-0 z-50">
+            <nav className="bg-white w-full h-14 relative ">
                 <div className="flex absolute top-4 gap-10 left-4 border-r-[1px] border-gray-500 px-7">
-                    <h2 className="text-[#05141F] font-semibold">2026 Seltos</h2>
+                    <h2 className="text-[#05141F] font-[600] text-[16px]">2026 Seltos</h2>
                     <h2 className="text-[#05141F] font-semibold">$23,790
                         Starting MSRP*</h2> 
                 </div>
